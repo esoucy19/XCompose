@@ -8,6 +8,262 @@
 # Letterlike Symbols
 
 # Mathematical Operators
+# ∀ # For all
+# ∁ # Complement
+# ∂ # Differential
+# ∃ # There exists
+# ∄ # There does not exist
+# ∅ # Empty set
+# ∆ # Increment/Delta
+# ∇ # Nabla
+# ∈ # Element of
+# ∉ # Not an element of
+# ∊ # Small element of
+# ∋ # Contains as member
+# ∌ # Does not contain as member
+# ∍ # Small contains as member
+# ∎ # End of proof / Tombstone
+# ∏ # N-Ary product
+# ∐ # N-Ary coproduct
+# ∑ # N-Ary summation
+# − # Minus sign
+# ∓ # Minus-or-plus sign
+# ∔ # Dot plus
+# ∕ # Division slash
+# ∖ # Set minus
+# ∗ # Asterisk operator
+# ∘ # Ring operator
+# ∙ # Bullet operator
+# √ # Square root
+# ∛ # Cube root
+# ∜ # Fourth root
+# ∝ # Proportional to
+# ∞ # Infinity
+# ∟ # Right angle
+# ∠ # Angle
+# ∡ # Measure angle
+# ∢ # Spherical angle
+# ∣ # Divides
+# ∤ # Does not divide
+# ∥ # Parallel to
+# ∦ # Not parallel to
+# ∧ # Logical and
+# ∨ # Logical or
+# ∩ # Intersection
+# ∪ # Union
+# ∫ # Integral 
+# ∬ # Double integral
+# ∭ # Triple integral
+# ∮ # Contour integral
+# ∯ # Surface integral
+# ∰ # Volume integral
+# ∱ # Clockwise integral
+# ∲ # Clockwise contour integral
+# ∳ # Anticlockwise contour integral
+# ∴ # Therefore
+# ∵ # Because
+# ∶ # Ratio
+# ∷ # Proportion
+# ∸ # Dot minus
+# ∹ # Excess
+# ∺ # Geometric proportion
+# ∻ # Homothetic
+# ∼ # Tilde Operator
+# ∽ # Reversed tilde
+# ∾ # Inverted lazy S
+# ∿ # Sine wave
+# ≀ # Wreath product
+# ≁ # Not tilde
+# ≂ # Minus tilde
+# ≃ # Asymptotically equal to
+# ≄ # Not asymptotically equal to
+# ≅ # Approximately equal to
+# ≆ # Approximately but not actually equal to
+# ≇ # Neither approximately nor actually equal to
+# ≈ # Almost equal to
+# ≉ # Not almost equal to
+# ≊ # Almost equal or equal to
+# ≋ # Triple tilde
+# ≌ # All equal to
+# ≍ # Equivalent to
+# ≎ # Geometrically equivalent to
+# ≏
+# ≐
+# ≑
+# ≒
+# ≓
+# ≔
+# ≕
+# ≖
+# ≗
+# ≘
+# ≙
+# ≚
+# ≛
+# ≜
+# ≝
+# ≞
+# ≟
+# ≠
+# ≡
+# ≢
+# ≣
+# ≤
+# ≥
+# ≦
+# ≧
+# ≨
+# ≩
+# ≪
+# ≫
+# ≬
+# ≭
+# ≮
+# ≯
+# ≰
+# ≱
+# ≲
+# ≳
+# ≴
+# ≵
+# ≶
+# ≷
+# ≸
+# ≹
+# ≺
+# ≻
+# ≼
+# ≽
+# ≾
+# ≿
+# ⊀
+# ⊁
+# ⊂
+# ⊃
+# ⊄
+# ⊅
+# ⊆
+# ⊇
+# ⊈
+# ⊉
+# ⊊
+# ⊋
+# ⊌
+# ⊍
+# ⊎
+# ⊏
+# ⊐
+# ⊑
+# ⊒
+# ⊓
+# ⊔
+# ⊕
+# ⊖
+# ⊗
+# ⊘
+# ⊙
+# ⊚
+# ⊛
+# ⊜
+# ⊝
+# ⊞
+# ⊟
+# ⊠
+# ⊡
+# ⊢
+# ⊣
+# ⊤
+# ⊥
+# ⊦
+# ⊧
+# ⊨
+# ⊩
+# ⊪
+# ⊫
+# ⊬
+# ⊭
+# ⊮
+# ⊯
+# ⊰
+# ⊱
+# ⊲
+# ⊳
+# ⊴
+# ⊵
+# ⊶
+# ⊷
+# ⊸
+# ⊹
+# ⊺
+# ⊻
+# ⊼
+# ⊽
+# ⊾
+# ⊿
+# ⋀
+# ⋁
+# ⋂
+# ⋃
+# ⋄
+# ⋅
+# ⋆
+# ⋇
+# ⋈
+# ⋉
+# ⋊
+# ⋋
+# ⋌
+# ⋍
+# ⋎
+# ⋏
+# ⋐
+# ⋑
+# ⋒
+# ⋓
+# ⋔
+# ⋕
+# ⋖
+# ⋗
+# ⋘
+# ⋙
+# ⋚
+# ⋛
+# ⋜
+# ⋝
+# ⋞
+# ⋟
+# ⋠
+# ⋡
+# ⋢
+# ⋣
+# ⋤
+# ⋥
+# ⋦
+# ⋧
+# ⋨
+# ⋩
+# ⋪
+# ⋫
+# ⋬
+# ⋭
+# ⋮
+# ⋯
+# ⋰
+# ⋱
+# ⋲
+# ⋳
+# ⋴
+# ⋵
+# ⋶
+# ⋷
+# ⋸
+# ⋹
+# ⋺
+# ⋻
+# ⋼
+# ⋽
+# ⋾
+# ⋿
 
 # Misc symbols
 
