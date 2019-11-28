@@ -1,0 +1,72 @@
+#-------------
+# Math symbols
+#-------------
+# Arrows
+
+# Geometric Shapes
+
+# Letterlike Symbols
+
+# Mathematical Operators
+
+# Misc symbols
+
+# Number Forms
+
+# Superscripts and Subscripts
+
+# Supplemental Arrows
+
+# Supplemental Operators
+
+#---------------
+# Greek alphabet => g
+#---------------
+<multi_key> <g> <A> : "Α" # Capital alpha
+<multi_key> <g> <a> : "α"	# Small alpha
+<multi_key> <g> <B> : "Β"	# Capital beta
+<multi_key> <g> <b> : "β"	# Small beta
+<multi_key> <g> <C> : "Χ" # Capital chi
+<multi_key> <g> <c> : "χ"	# Small chi
+<multi_key> <g> <D> : "Δ" # Capital delta
+<multi_key> <g> <d> : "δ"	# Small delta
+<multi_key> <g> <E> : "Ε" # Capital epsilon
+<multi_key> <g> <e> : "ε"	# Small epsilon
+<multi_key> <g> <F> : "Φ" # Capital phi
+<multi_key> <g> <f> : "φ" #	Small phi
+<multi_key> <g> <G> : "Γ" # Capital gamma
+<multi_key> <g> <g> : "γ"	# Small gamma
+<multi_key> <g> <H> : "Η" # Capital eta
+<multi_key> <g> <h> : "η"	# Small eta
+<multi_key> <g> <I> : "Ι"	# Capital iota
+<multi_key> <g> <i> : "ι" # Small	iota
+<multi_key> <g> <J> : "Ψ" #	Capital psi
+<multi_key> <g> <j> : "ψ"	# Small psi
+<multi_key> <g> <K> : "Κ"	# Capital kappa
+<multi_key> <g> <k> : "κ"	# Small kappa
+<multi_key> <g> <L> : "Λ" # Capital lambda
+<multi_key> <g> <l> : "λ"	# Small lamda
+<multi_key> <g> <M> : "Μ"	# Capital mu
+<multi_key> <g> <m> : "μ"	# Small mu
+<multi_key> <g> <N> : "Ν"	# Capital nu
+<multi_key> <g> <n> : "ν"	# Small nu
+<multi_key> <g> <O> : "Ο"	# Capital omicron
+<multi_key> <g> <o> : "ο" #	Small omicron
+<multi_key> <g> <P> : "Π"	# Capital pi
+<multi_key> <g> <p> : "π"	# Small pi
+<multi_key> <g> <R> : "Ρ"	# Capital rho
+<multi_key> <g> <r> : "ρ"	# Small rho
+<multi_key> <g> <S> : "Σ"	# Capital sigma
+<multi_key> <g> <s> : "σ" # Small sigma
+<multi_key> <g> <T> : "Θ"	# Capital theta
+<multi_key> <g> <t> : "θ" # Small	theta
+<multi_key> <g> <U> : "Τ"	# Capital tau
+<multi_key> <g> <u> : "τ"	# Small tau
+<multi_key> <g> <W> : "Ω"	# Capital omega
+<multi_key> <g> <w> : "ω"	# Small omega
+<multi_key> <g> <X> : "Ξ"	# Capital xi
+<multi_key> <g> <x> : "ξ" #	Small xi
+<multi_key> <g> <Y> : "Υ"	# Capital upsilon
+<multi_key> <g> <y> : "υ"	# Small upsilon
+<multi_key> <g> <Z> : "Ζ" # Capital zeta
+<multi_key> <g> <z> : "ζ"	# Small zeta
