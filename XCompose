@@ -2,30 +2,142 @@
 # Math symbols
 #-------------
 # Arrows
+<Multi_key> <m> <leftarrow> : "←" #	8592	←	2190	&larr;	LEFTWARDS ARROW   (present in WGL4 and in Symbol font)
+<Multi_key> <m> <uparrow> : "↑" #	8593	↑	2191	&uarr;	UPWARDS ARROW   (present in WGL4 and in Symbol font)
+<Multi_key> <m> <rightarrow> : "→" #	8594	→	2192	&rarr;	RIGHTWARDS ARROW   (present in WGL4 and in Symbol font)
+<Multi_key> <m> <uparrow> : ↓ #   8595	↓	2193	&darr;	DOWNWARDS ARROW   (present in WGL4 and in Symbol font)
+#↔	8596	↔	2194	&harr;	LEFT RIGHT ARROW   (present in WGL4 and in Symbol font)
+#↕	8597	↕	2195	 	UP DOWN ARROW   (present in WGL4)
+#↖	8598	↖	2196	 	NORTH WEST ARROW
+#↗	8599	↗	2197	 	NORTH EAST ARROW
+#↘	8600	↘	2198	 	SOUTH EAST ARROW
+#↙	8601	↙	2199	 	SOUTH WEST ARROW
+#↚	8602	↚	219A	 	LEFTWARDS ARROW WITH STROKE
+#↛	8603	↛	219B	 	RIGHTWARDS ARROW WITH STROKE
+#↜	8604	↜	219C	 	LEFTWARDS WAVE ARROW
+#↝	8605	↝	219D	 	RIGHTWARDS WAVE ARROW
+#↞	8606	↞	219E	 	LEFTWARDS TWO HEADED ARROW
+#↟	8607	↟	219F	 	UPWARDS TWO HEADED ARROW
+#↠	8608	↠	21A0	 	RIGHTWARDS TWO HEADED ARROW
+#↡	8609	↡	21A1	 	DOWNWARDS TWO HEADED ARROW
+#↢	8610	↢	21A2	 	LEFTWARDS ARROW WITH TAIL
+#↣	8611	↣	21A3	 	RIGHTWARDS ARROW WITH TAIL
+#↤	8612	↤	21A4	 	LEFTWARDS ARROW FROM BAR
+#↥	8613	↥	21A5	 	UPWARDS ARROW FROM BAR
+#↦	8614	↦	21A6	 	RIGHTWARDS ARROW FROM BAR
+#↧	8615	↧	21A7	 	DOWNWARDS ARROW FROM BAR
+#↨	8616	↨	21A8	 	UP DOWN ARROW WITH BASE   (present in WGL4)
+#↩	8617	↩	21A9	 	LEFTWARDS ARROW WITH HOOK
+#↪	8618	↪	21AA	 	RIGHTWARDS ARROW WITH HOOK
+#↫	8619	↫	21AB	 	LEFTWARDS ARROW WITH LOOP
+#↬	8620	↬	21AC	 	RIGHTWARDS ARROW WITH LOOP
+#↭	8621	↭	21AD	 	LEFT RIGHT WAVE ARROW
+#↮	8622	↮	21AE	 	LEFT RIGHT ARROW WITH STROKE
+#↯	8623	↯	21AF	 	DOWNWARDS ZIGZAG ARROW
+#↰	8624	↰	21B0	 	UPWARDS ARROW WITH TIP LEFTWARDS
+#↱	8625	↱	21B1	 	UPWARDS ARROW WITH TIP RIGHTWARDS
+#↲	8626	↲	21B2	 	DOWNWARDS ARROW WITH TIP LEFTWARDS
+#↳	8627	↳	21B3	 	DOWNWARDS ARROW WITH TIP RIGHTWARDS
+#↴	8628	↴	21B4	 	RIGHTWARDS ARROW WITH CORNER DOWNWARDS
+#↵	8629	↵	21B5	&crarr;	DOWNWARDS ARROW WITH CORNER LEFTWARDS   (present in Symbol font)
+#↶	8630	↶	21B6	 	ANTICLOCKWISE TOP SEMICIRCLE ARROW
+#↷	8631	↷	21B7	 	CLOCKWISE TOP SEMICIRCLE ARROW
+#↸	8632	↸	21B8	 	NORTH WEST ARROW TO LONG BAR
+#↹	8633	↹	21B9	 	LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR
+#↺	8634	↺	21BA	 	ANTICLOCKWISE OPEN CIRCLE ARROW
+#↻	8635	↻	21BB	 	CLOCKWISE OPEN CIRCLE ARROW
+#↼	8636	↼	21BC	 	LEFTWARDS HARPOON WITH BARB UPWARDS
+#↽	8637	↽	21BD	 	LEFTWARDS HARPOON WITH BARB DOWNWARDS
+#↾	8638	↾	21BE	 	UPWARDS HARPOON WITH BARB RIGHTWARDS
+#↿	8639	↿	21BF	 	UPWARDS HARPOON WITH BARB LEFTWARDS
+#⇀	8640	⇀	21C0	 	RIGHTWARDS HARPOON WITH BARB UPWARDS
+#⇁	8641	⇁	21C1	 	RIGHTWARDS HARPOON WITH BARB DOWNWARDS
+#⇂	8642	⇂	21C2	 	DOWNWARDS HARPOON WITH BARB RIGHTWARDS
+#⇃	8643	⇃	21C3	 	DOWNWARDS HARPOON WITH BARB LEFTWARDS
+#⇄	8644	⇄	21C4	 	RIGHTWARDS ARROW OVER LEFTWARDS ARROW
+#⇅	8645	⇅	21C5	 	UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW
+#⇆	8646	⇆	21C6	 	LEFTWARDS ARROW OVER RIGHTWARDS ARROW
+#⇇	8647	⇇	21C7	 	LEFTWARDS PAIRED ARROWS
+#⇈	8648	⇈	21C8	 	UPWARDS PAIRED ARROWS
+#⇉	8649	⇉	21C9	 	RIGHTWARDS PAIRED ARROWS
+#⇊	8650	⇊	21CA	 	DOWNWARDS PAIRED ARROWS
+#⇋	8651	⇋	21CB	 	LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON
+#⇌	8652	⇌	21CC	 	RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON
+#⇍	8653	⇍	21CD	 	LEFTWARDS DOUBLE ARROW WITH STROKE
+#⇎	8654	⇎	21CE	 	LEFT RIGHT DOUBLE ARROW WITH STROKE
+#⇏	8655	⇏	21CF	 	RIGHTWARDS DOUBLE ARROW WITH STROKE
+<Multi_key> <m> <=> <leftarrow> : "⇐" #	8656	⇐	21D0	&lArr;	LEFTWARDS DOUBLE ARROW   (present in Symbol font)
+<Multi_key> <m> <=> <uparrow> : "⇑" #	8657	⇑	21D1	&uArr;	UPWARDS DOUBLE ARROW   (present in Symbol font)
+<Multi_key> <m> <=> <rightarrow> : "⇒" #	8658	⇒	21D2	&rArr;	RIGHTWARDS DOUBLE ARROW   (present in Symbol font)
+<Multi_key> <m> <=> <downarrow> : "⇓" #	8659	⇓	21D3	&dArr;	DOWNWARDS DOUBLE ARROW   (present in Symbol font)
+<Multi_key> <m> <a> <=> : "⇔" #	8660	⇔	21D4	&hArr;	LEFT RIGHT DOUBLE ARROW   (present in Symbol font)
+#⇕	8661	⇕	21D5	 	UP DOWN DOUBLE ARROW
+#⇖	8662	⇖	21D6	 	NORTH WEST DOUBLE ARROW
+#⇗	8663	⇗	21D7	 	NORTH EAST DOUBLE ARROW
+#⇘	8664	⇘	21D8	 	SOUTH EAST DOUBLE ARROW
+#⇙	8665	⇙	21D9	 	SOUTH WEST DOUBLE ARROW
+#⇚	8666	⇚	21DA	 	LEFTWARDS TRIPLE ARROW
+#⇛	8667	⇛	21DB	 	RIGHTWARDS TRIPLE ARROW
+#⇜	8668	⇜	21DC	 	LEFTWARDS SQUIGGLE ARROW
+#⇝	8669	⇝	21DD	 	RIGHTWARDS SQUIGGLE ARROW
+#⇞	8670	⇞	21DE	 	UPWARDS ARROW WITH DOUBLE STROKE
+#⇟	8671	⇟	21DF	 	DOWNWARDS ARROW WITH DOUBLE STROKE
+#⇠	8672	⇠	21E0	 	LEFTWARDS DASHED ARROW
+#⇡	8673	⇡	21E1	 	UPWARDS DASHED ARROW
+#⇢	8674	⇢	21E2	 	RIGHTWARDS DASHED ARROW
+#⇣	8675	⇣	21E3	 	DOWNWARDS DASHED ARROW
+#⇤	8676	⇤	21E4	 	LEFTWARDS ARROW TO BAR
+#⇥	8677	⇥	21E5	 	RIGHTWARDS ARROW TO BAR
+#⇦	8678	⇦	21E6	 	LEFTWARDS WHITE ARROW
+#⇧	8679	⇧	21E7	 	UPWARDS WHITE ARROW
+#⇨	8680	⇨	21E8	 	RIGHTWARDS WHITE ARROW
+#⇩	8681	⇩	21E9	 	DOWNWARDS WHITE ARROW
+#⇪	8682	⇪	21EA	 	UPWARDS WHITE ARROW FROM BAR
+#⇫	8683	⇫	21EB	 	UPWARDS WHITE ARROW ON PEDESTAL
+#⇬	8684	⇬	21EC	 	UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR
+#⇭	8685	⇭	21ED	 	UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR
+#⇮	8686	⇮	21EE	 	UPWARDS WHITE DOUBLE ARROW
+#⇯	8687	⇯	21EF	 	UPWARDS WHITE DOUBLE ARROW ON PEDESTAL
+#⇰	8688	⇰	21F0	 	RIGHTWARDS WHITE ARROW FROM WALL
+#⇱	8689	⇱	21F1	 	NORTH WEST ARROW TO CORNER
+#⇲	8690	⇲	21F2	 	SOUTH EAST ARROW TO CORNER
+#⇳	8691	⇳	21F3	 	UP DOWN WHITE ARROW
+#⇴	8692	⇴	21F4	 	RIGHT ARROW WITH SMALL CIRCLE
+#⇵	8693	⇵	21F5	 	DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW
+#⇶	8694	⇶	21F6	 	THREE RIGHTWARDS ARROWS
+#⇷	8695	⇷	21F7	 	LEFTWARDS ARROW WITH VERTICAL STROKE
+#⇸	8696	⇸	21F8	 	RIGHTWARDS ARROW WITH VERTICAL STROKE
+#⇹	8697	⇹	21F9	 	LEFT RIGHT ARROW WITH VERTICAL STROKE
+#⇺	8698	⇺	21FA	 	LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE
+#⇻	8699	⇻	21FB	 	RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE
+#⇼	8700	⇼	21FC	 	LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE
+#⇽	8701	⇽	21FD	 	LEFTWARDS OPEN-HEADED ARROW
+#⇾	8702	⇾	21FE	 	RIGHTWARDS OPEN-HEADED ARROW
+#⇿	8703	⇿	21FF	 	LEFT RIGHT OPEN-HEADED ARROW
 
 # Geometric Shapes
 
 # Letterlike Symbols
 
 # Mathematical Operators
-# ∀ # For all
+<Multi_key> <m> <f> <a> : "∀" # For all
 # ∁ # Complement
 # ∂ # Differential
-# ∃ # There exists
-# ∄ # There does not exist
-# ∅ # Empty set
-# ∆ # Increment/Delta
-# ∇ # Nabla
-# ∈ # Element of
-# ∉ # Not an element of
+<Multi_key> <m> <t> <e> : "∃" # There exists
+<Multi_key> <m> <-> <t> <e> : "∄" # There does not exist
+<Multi_key> <m> <n> <s>: "∅" # Empty set
+<Multi_key> <m> <d> : "∆" # Increment/Delta
+<Multi_key> <m> <n> : "∇" # Nabla
+<Multi_key> <m> <e> <o> : "∈" # Element of
+<Multi_key> <m> <-> <e> <o> : "∉" # Not an element of
 # ∊ # Small element of
 # ∋ # Contains as member
 # ∌ # Does not contain as member
 # ∍ # Small contains as member
 # ∎ # End of proof / Tombstone
-# ∏ # N-Ary product
+<Multi_key> <m> <M> : "∏" # N-Ary product
 # ∐ # N-Ary coproduct
-# ∑ # N-Ary summation
+<Multi_key> <m> <S> : "∑" # N-Ary summation
 # − # Minus sign
 # ∓ # Minus-or-plus sign
 # ∔ # Dot plus
@@ -33,27 +145,27 @@
 # ∖ # Set minus
 # ∗ # Asterisk operator
 # ∘ # Ring operator
-# ∙ # Bullet operator
-# √ # Square root
+<Multi_key> <m> <.> : "∙­" # Bullet operator
+<Multi_key> <m> <r> : √ # Square root
 # ∛ # Cube root
 # ∜ # Fourth root
 # ∝ # Proportional to
-# ∞ # Infinity
+<Multi_key> <m> <i> <n> <f> : "∞" # Infinity
 # ∟ # Right angle
 # ∠ # Angle
 # ∡ # Measure angle
 # ∢ # Spherical angle
-# ∣ # Divides
-# ∤ # Does not divide
+<Multi_key> <m> <|> : "∣" # Divides
+<Multi_key> <m> <-> <|> : "∤" # Does not divide
 # ∥ # Parallel to
 # ∦ # Not parallel to
-# ∧ # Logical and
-# ∨ # Logical or
-# ∩ # Intersection
-# ∪ # Union
-# ∫ # Integral 
-# ∬ # Double integral
-# ∭ # Triple integral
+<Multi_key> <m> <^> : "∧" # Logical and
+<Multi_key> <m> <v> : "∨" # Logical or
+<Multi_key> <m> <n> : "∩" # Intersection
+<Multi_key> <m> <u> : "∪" # Union
+<Multi_key> <m> <i> <n> <t> : "∫" # Integral 
+<Multi_key> <m> <2> <i> <n> <t> : ∬ # Double integral
+<Multi_key> <m> <3> <i> <n> <t> :∭ # Triple integral
 # ∮ # Contour integral
 # ∯ # Surface integral
 # ∰ # Volume integral
@@ -108,8 +220,8 @@
 # ≡
 # ≢
 # ≣
-# ≤
-# ≥
+<Multi_key> <m> <<> <=> : "≤"
+<Multi_key> <m> <>> <=> : "≥"
 # ≦
 # ≧
 # ≨
@@ -138,12 +250,12 @@
 # ≿
 # ⊀
 # ⊁
-# ⊂
-# ⊃
+<Multi_key> <m> <s> <s> : "⊂" # subset of
+<Multi_key> <m> <S> <s> : "⊃" # superset of
 # ⊄
 # ⊅
-# ⊆
-# ⊇
+<Multi_key> <m> <s> <s> <=> : "⊆" # subset or equal
+<Multi_key> <m> <S> <s> <=> : "⊇" # superset or equal 
 # ⊈
 # ⊉
 # ⊊
@@ -278,51 +390,79 @@
 #---------------
 # Greek alphabet => g
 #---------------
-<multi_key> <g> <A> : "Α" # Capital alpha
-<multi_key> <g> <a> : "α"	# Small alpha
-<multi_key> <g> <B> : "Β"	# Capital beta
-<multi_key> <g> <b> : "β"	# Small beta
-<multi_key> <g> <C> : "Χ" # Capital chi
-<multi_key> <g> <c> : "χ"	# Small chi
-<multi_key> <g> <D> : "Δ" # Capital delta
-<multi_key> <g> <d> : "δ"	# Small delta
-<multi_key> <g> <E> : "Ε" # Capital epsilon
-<multi_key> <g> <e> : "ε"	# Small epsilon
-<multi_key> <g> <F> : "Φ" # Capital phi
-<multi_key> <g> <f> : "φ" #	Small phi
-<multi_key> <g> <G> : "Γ" # Capital gamma
-<multi_key> <g> <g> : "γ"	# Small gamma
-<multi_key> <g> <H> : "Η" # Capital eta
-<multi_key> <g> <h> : "η"	# Small eta
-<multi_key> <g> <I> : "Ι"	# Capital iota
-<multi_key> <g> <i> : "ι" # Small	iota
-<multi_key> <g> <J> : "Ψ" #	Capital psi
-<multi_key> <g> <j> : "ψ"	# Small psi
-<multi_key> <g> <K> : "Κ"	# Capital kappa
-<multi_key> <g> <k> : "κ"	# Small kappa
-<multi_key> <g> <L> : "Λ" # Capital lambda
-<multi_key> <g> <l> : "λ"	# Small lamda
-<multi_key> <g> <M> : "Μ"	# Capital mu
-<multi_key> <g> <m> : "μ"	# Small mu
-<multi_key> <g> <N> : "Ν"	# Capital nu
-<multi_key> <g> <n> : "ν"	# Small nu
-<multi_key> <g> <O> : "Ο"	# Capital omicron
-<multi_key> <g> <o> : "ο" #	Small omicron
-<multi_key> <g> <P> : "Π"	# Capital pi
-<multi_key> <g> <p> : "π"	# Small pi
-<multi_key> <g> <R> : "Ρ"	# Capital rho
-<multi_key> <g> <r> : "ρ"	# Small rho
-<multi_key> <g> <S> : "Σ"	# Capital sigma
-<multi_key> <g> <s> : "σ" # Small sigma
-<multi_key> <g> <T> : "Θ"	# Capital theta
-<multi_key> <g> <t> : "θ" # Small	theta
-<multi_key> <g> <U> : "Τ"	# Capital tau
-<multi_key> <g> <u> : "τ"	# Small tau
-<multi_key> <g> <W> : "Ω"	# Capital omega
-<multi_key> <g> <w> : "ω"	# Small omega
-<multi_key> <g> <X> : "Ξ"	# Capital xi
-<multi_key> <g> <x> : "ξ" #	Small xi
-<multi_key> <g> <Y> : "Υ"	# Capital upsilon
-<multi_key> <g> <y> : "υ"	# Small upsilon
-<multi_key> <g> <Z> : "Ζ" # Capital zeta
-<multi_key> <g> <z> : "ζ"	# Small zeta
+<Multi_key> <g> <A> : "Α" # Capital alpha
+<Multi_key> <g> <a> : "α"	# Small alpha
+<Multi_key> <g> <B> : "Β"	# Capital beta
+<Multi_key> <g> <b> : "β"	# Small beta
+<Multi_key> <g> <C> : "Χ" # Capital chi
+<Multi_key> <g> <c> : "χ"	# Small chi
+<Multi_key> <g> <D> : "Δ" # Capital delta
+<Multi_key> <g> <d> : "δ"	# Small delta
+<Multi_key> <g> <E> : "Ε" # Capital epsilon
+<Multi_key> <g> <e> : "ε"	# Small epsilon
+<Multi_key> <g> <F> : "Φ" # Capital phi
+<Multi_key> <g> <f> : "φ" #	Small phi
+<Multi_key> <g> <G> : "Γ" # Capital gamma
+<Multi_key> <g> <g> : "γ"	# Small gamma
+<Multi_key> <g> <H> : "Η" # Capital eta
+<Multi_key> <g> <h> : "η"	# Small eta
+<Multi_key> <g> <I> : "Ι"	# Capital iota
+<Multi_key> <g> <i> : "ι" # Small	iota
+<Multi_key> <g> <J> : "Ψ" #	Capital psi
+<Multi_key> <g> <j> : "ψ"	# Small psi
+<Multi_key> <g> <K> : "Κ"	# Capital kappa
+<Multi_key> <g> <k> : "κ"	# Small kappa
+<Multi_key> <g> <L> : "Λ" # Capital lambda
+<Multi_key> <g> <l> : "λ"	# Small lamda
+<Multi_key> <g> <M> : "Μ"	# Capital mu
+<Multi_key> <g> <m> : "μ"	# Small mu
+<Multi_key> <g> <N> : "Ν"	# Capital nu
+<Multi_key> <g> <n> : "ν"	# Small nu
+<Multi_key> <g> <O> : "Ο"	# Capital omicron
+<Multi_key> <g> <o> : "ο" #	Small omicron
+<Multi_key> <g> <P> : "Π"	# Capital pi
+<Multi_key> <g> <p> : "π"	# Small pi
+<Multi_key> <g> <R> : "Ρ"	# Capital rho
+<Multi_key> <g> <r> : "ρ"	# Small rho
+<Multi_key> <g> <S> : "Σ"	# Capital sigma
+<Multi_key> <g> <s> : "σ" # Small sigma
+<Multi_key> <g> <T> : "Θ"	# Capital theta
+<Multi_key> <g> <t> : "θ" # Small	theta
+<Multi_key> <g> <U> : "Τ"	# Capital tau
+<Multi_key> <g> <u> : "τ"	# Small tau
+<Multi_key> <g> <W> : "Ω"	# Capital omega
+<Multi_key> <g> <w> : "ω"	# Small omega
+<Multi_key> <g> <X> : "Ξ"	# Capital xi
+<Multi_key> <g> <x> : "ξ" #	Small xi
+<Multi_key> <g> <Y> : "Υ"	# Capital upsilon
+<Multi_key> <g> <y> : "υ"	# Small upsilon
+<Multi_key> <g> <Z> : "Ζ" # Capital zeta
+<Multi_key> <g> <z> : "ζ"	# Small zeta
+
+# Double-struck letters
+<Multi_key> <A> <A> : "𝔸" #	ALT 120120	1D538 ALT X	Mathematical double-struck capital A	&#120120	&#x1D538	&Aopf;	U+1D538
+<Multi_key> <B> <B> : "𝔹" #	ALT 120121	1D539 ALT X	Mathematical double-struck capital B	&#120121	&#x1D539	&Bopf;	U+1D539
+<Multi_key> <C> <C> : "ℂ" #	ALT 8450	2102 ALT X	Double-struck capital C, the set of complex numbers	&#8450	&#x2102	&Copf;	U+2102
+<Multi_key> <D> <D> : "𝔻" #	ALT 120123	1D53B ALT X	Mathematical double-struck capital D	&#120123	&#x1D53B	&Dopf;	U+1D53B
+<Multi_key> <E> <E> : "𝔼" #	ALT 120124	1D53C ALT X	Mathematical double-struck capital E	&#120124	&#x1D53C	&Eopf;	U+1D53C
+<Multi_key> <F> <F> : "𝔽" #	ALT 120125	1D53D ALT X	Mathematical double-struck capital F	&#120125	&#x1D53D	&Fopf;	U+1D53D
+<Multi_key> <G> <G> : "𝔾" #	ALT 120126	1D53E ALT X	Mathematical double-struck capital G	&#120126	&#x1D53E	&Gopf;	U+1D53E
+<Multi_key> <H> <H> : "ℍ" #	ALT 8461	210D ALT X	Double-struck capital H	&#8461	&#x210D	&Hopf;	U+210D
+<Multi_key> <I> <I> : "𝕀" #	ALT 120128	1D540 ALT X	Mathematical double-struck capital I	&#120128	&#x1D540	&Iopf;	U+1D540
+<Multi_key> <J> <J> : "𝕁" #	ALT 120129	1D541 ALT X	Mathematical double-struck capital J	&#120129	&#x1D541	&Jopf;	U+1D541
+<Multi_key> <K> <K> : "𝕂" #	ALT 120130	1D542 ALT X	Mathematical double-struck capital K	&#120130	&#x1D542	&Kopf;	U+1D542
+<Multi_key> <L> <L> : "𝕃" #	ALT 120131	1D543 ALT X	Mathematical double-struck capital L	&#120131	&#x1D543	&Lopf;	U+1D543
+<Multi_key> <M> <M> : "𝕄" #	ALT 120132	1D544 ALT X	Mathematical double-struck capital M	&#120132	&#x1D544	&Mopf;	U+1D544
+<Multi_key> <N> <N> : "ℕ" #	ALT 8469	2115 ALT X	Double-struck capital N, natural number	&#8469	&#x2115	&Nopf;	U+2115
+<Multi_key> <O> <O> : "𝕆" #	ALT 120134	1D546 ALT X	Mathematical double-struck capital O	&#120134	&#x1D546	&Oopf;	U+1D546
+<Multi_key> <P> <P> : "ℙ" #	ALT 8473	2119 ALT X	Double-struck capital P	&#8473	&#x2119	&Popf;	U+2119
+<Multi_key> <Q> <Q> : "ℚ" #	ALT 8474	211A ALT X	Double-struck capital Q, the set of rational numbers	&#8474	&#x211A	&Qopf;	U+211A
+<Multi_key> <R> <R> : "ℝ" #	ALT 8477	211D ALT X	Double-struck capital R, the set of real numbers	&#8477	&#x211D	&Ropf;	U+211D
+<Multi_key> <S> <S> : "𝕊" #	ALT 120138	1D54A ALT X	Mathematical double-struck capital S	&#120138	&#x1D54A	&Sopf;	U+1D54A
+<Multi_key> <T> <T> : "𝕋" #	ALT 120139	1D54B ALT X	Mathematical double-struck capital T	&#120139	&#x1D54B	&Topf;	U+1D54B
+<Multi_key> <U> <U> : "𝕌" #	ALT 120140	1D54C ALT X	Mathematical double-struck capital U	&#120140	&#x1D54C	&Uopf;	U+1D54C
+<Multi_key> <V> <V> : "𝕍" #	ALT 120141	1D54D ALT X	Mathematical double-struck capital V	&#120141	&#x1D54D	&Vopf;	U+1D54D
+<Multi_key> <W> <W> : "𝕎" #	ALT 120142	1D54E ALT X	Mathematical double-struck capital W	&#120142	&#x1D54E	&Wopf;	U+1D54E
+<Multi_key> <X> <X> : "𝕏" #	ALT 120143	1D54F ALT X	Mathematical double-struck capital X	&#120143	&#x1D54F	&Xopf;	U+1D54F
+<Multi_key> <Y> <Y> : "𝕐" #	ALT 120144	1D550 ALT X	Mathematical double-struck capital Y	&#120144	&#x1D550	&Yopf;	U+1D550
+<Multi_key> <Z> <Z> : "ℤ" #	ALT 8484	2124 ALT X	Double-struck capital Z, the set of integers	&#8484	&#x2124	&Zopf;	U+2124
